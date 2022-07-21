@@ -32,20 +32,22 @@ export default function Home({ allPostsData }) {
         <div class="text-center py-4">
           
           <div class="stats bg-primary text-primary-content servers">
-            <Online server="近离2.8服" />
-            <Online server="3.0尝鲜服" />
-            <Online server="备用" />
+            <Online server="天理2.8一服" />
+            <Online server="天理2.8二服" />
+            <Online server="天理2.8魂服" />
+            <Online server="天理2.8.5x服" />
+            <Online server="天理2.7版本服" />
           </div>
 
         </div>
         
         <p class="text-center">
-          服务器地址是输入到代理里面的，请勿将其直接输入浏览器，不会请进群<br/>
+          服务器地址是输入到代理里面的，请勿将其直接输入浏览器，不会请看下方教程<br/>
           电脑的端口留空或者输443就好 <br/>
         </p>
 
         <p class="description">
-        <a href="https://jq.qq.com/?_wv=1027&k=3hgYbb9U" target="_blank" rel="sponsored">Q群|教程</a>
+        <a href="https://casks.me" target="_blank" rel="sponsored">网站|教程</a>
         </p>
 
       </div>
