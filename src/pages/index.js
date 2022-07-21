@@ -32,11 +32,8 @@ export default function Home({ allPostsData }) {
         <div class="text-center py-4">
           
           <div class="stats bg-primary text-primary-content servers">
-            <Online server="天理2.8一服" />
-            <Online server="天理2.8二服" />
-            <Online server="天理2.8魂服" />
-            <Online server="天理2.8.5x服" />
-            <Online server="天理2.7版本服" />
+            <Online server="近离2.8服" />
+            <Online server="近离3.0beta" />
           </div>
 
         </div>
@@ -47,7 +44,7 @@ export default function Home({ allPostsData }) {
         </p>
 
         <p class="description">
-        <a href="https://casks.me" target="_blank" rel="sponsored">网站|教程</a>
+        <a href="https://jq.qq.com/?_wv=1027&k=HaeyDRiw" target="_blank" rel="sponsored">Q群|教程</a>
         </p>
 
       </div>
