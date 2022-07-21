@@ -12,7 +12,7 @@ export default function App({ server = "sg" }) {
         seraddress = "电脑：zjjcyw.club:88 手机：https://zjjcyw.club:88"
   } else if(server == "3.0beta"){
         host = "zjjcyw.club:66"
-        seraddress = "电脑：zjjcyw.club:66 手机暂无
+        seraddress = "电脑：zjjcyw.club:66 手机暂无"
   }
 
   const { data, error } = useSWR(
