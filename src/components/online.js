@@ -8,10 +8,10 @@ export default function App({ server = "sg" }) {
   var host;
   var seraddress;
   if(server == "近离2.8服"){
-        host = "zjjcyw.club:88"
+        host = "https://zjjcyw.club:88"
         seraddress = "电脑：zjjcyw.club:88 手机：https://zjjcyw.club:88"
   } else if(server == "3.0beta"){
-        host = "zjjcyw.club:66"
+        host = "https://zjjcyw.club:66"
         seraddress = "电脑：zjjcyw.club:66 手机暂无"
   }
 
