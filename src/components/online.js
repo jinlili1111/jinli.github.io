@@ -13,9 +13,7 @@ export default function App({ server = "sg" }) {
   } else if(server == "3.0beta"){
         host = "zjjcyw.club:66"
         seraddress = "电脑：zjjcyw.club:66 手机暂不支持"
-  } else if(server == "备用"){
-        host = "120.48.114.21:89"
-        seraddress = "电脑：120.48.114.21:89
+  } else if(server == "备用")
   }
 
   const { data, error } = useSWR(
